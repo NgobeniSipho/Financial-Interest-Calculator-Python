@@ -34,7 +34,7 @@
 - **Enter the present value of the house, interest rate, and number of months to repay the bond.**
 - **The script will display the estimated monthly payment.**
 
-# screenshot For Testing
+# Screenshot For Testing
 
 
 ![compound](https://github.com/NgobeniSipho/Financial-Interest-Calculator-Python/assets/157616774/f4d38d15-b36b-445f-9a53-ff3240f98073)
