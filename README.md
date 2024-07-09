@@ -33,3 +33,5 @@
 - **Choose "bond" when prompted.**
 - **Enter the present value of the house, interest rate, and number of months to repay the bond.**
 - **The script will display the estimated monthly payment.**
+
+# screenshot
